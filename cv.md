@@ -6,7 +6,7 @@
 ## Briefly About Myself:
 My main goal is to become a front-end developer and keep on developing.
 ## Skills and Proficiency:
-I am learning and I hone skills in git, I am studying Html, Css, Js.
+I am learning and I hone skills in git, i am studying Html, Css, Js.
 ## Code example:
 ` ` `
 alert( 'Hello RS School!' );
