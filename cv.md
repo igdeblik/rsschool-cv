@@ -14,8 +14,8 @@ alert( 'Hello RS School!' );
 ## Courses:
 RS School. JS/Frontend Stage 0 Pre-School in process.
 ## Languages:
-Russian native
-English A1
+1. Russian native
+2. English A1
 
 
 
