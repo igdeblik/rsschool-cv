@@ -1,6 +1,15 @@
+@import url(<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>);
 body{
-    background-color:#71B4DB;
+    font-family:"lato";
+    background-color: rgb(245, 237, 227);
 }
+
+h1 {
+    font-size: 500%;
+    position: relative;
+    left: 450px;
+    top: -300px;
+  }
 
 .resume{
     padding: 50px;
@@ -11,18 +20,13 @@ body{
 
 }
 
-footer{
- 
-    text-align: center;
-   
-   
+.head{
+    
+    width: 1000px;
+    height: 365px;
+    background-color: 
 }
 
-ul.hr li{
-    display: inline-block;
-    color: red;
-    margin-left: 100px;
-
-    
+.footer{
 
 }
