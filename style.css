@@ -1,33 +1,41 @@
 @import url(<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>);
+
 body{
     font-family:"lato";
     background-color: rgb(251, 249, 247);
 }
-
-h1 {
-    font-size: 500%;
-    position: relative;
-    left: 450px;
-    top: -300px;
-  }
-
-.resume{
+.container{
+    margin: 20px auto;
+    width: 1000px;
     padding: 50px;
-    max-width: 900px;
-    background-color: white;
-    margin-left: auto;
-    margin-right: auto;
+    padding-bottom: 10px;
+    
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: #ffffff;
     box-shadow: 0px 2px 20px rgba(21, 24, 36, 0.15);
-
 }
 
-.head{
-    
+header{
+    padding: 50px;
     width: 1000px;
     height: 365px;
-    background-color: 
 }
 
-.footer{
+h1{
+    font-size: 70px;
+    text-align: right;
+    position:relative;
+    top: -300px;
+    left: -170px;
 
 }
+
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
