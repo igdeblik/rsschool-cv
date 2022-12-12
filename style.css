@@ -6,7 +6,7 @@ body{
 }
 .container{
     margin: 20px auto;
-    width: 1000px;
+    width: 800px;
     padding: 50px;
     padding-bottom: 10px;
     
@@ -27,7 +27,7 @@ h1{
     text-align: right;
     position:relative;
     top: -300px;
-    left: -170px;
+    left: -270px;
 
 }
 
